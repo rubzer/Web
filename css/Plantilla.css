@@ -636,13 +636,13 @@ header{
 
 	.opinion{
 	margin-top:12em;
-	height:16em;}
+	height:17em;}
 	
 	.opinion:last-child{
 	margin-top: 30em;}
 	
 	.avatar{
-	margin-top:2em;
+	margin-top:1em;
 	margin-left:30vw;}
 	
 	.comment{
@@ -650,11 +650,11 @@ header{
 	margin-left:0.5em;}
 	
 	.comment p{
-	padding-top:3em;}
+	padding-top:2.5em;}
 	
 	.comment h4{
 	position:absolute;
-	margin-top:1em;
+	margin-top:0em;
 	padding-left:0em;}
 	
 	#section4 video{
