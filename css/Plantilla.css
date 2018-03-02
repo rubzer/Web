@@ -628,11 +628,11 @@ header{
 	.colImg4{height:3em;}
 	
 	.filtro{
-	margin-top:6.5em;
+	margin-top:9em;
 	height: 65em;}
 	
 	.title4{
-	padding-top:7.5em;}
+	padding-top:8.5em;}
 
 	.opinion{
 	margin-top:12em;
@@ -646,16 +646,18 @@ header{
 	margin-left:30vw;}
 	
 	.comment{
-	width:95%;
-	margin-left:0.5em;}
+	width:95%;}
 	
 	.comment p{
-	padding-top:2.5em;}
+	padding-top:2.5em;
+	margin-left:2em;
+	margin-right:1em;}
 	
 	.comment h4{
 	position:absolute;
-	margin-top:0em;
-	padding-left:0em;}
+	margin-top:0.5em;
+	margin-left:2em;
+	margin-right:1em;}
 	
 	#section4 video{
 	margin-top:20vh;}
